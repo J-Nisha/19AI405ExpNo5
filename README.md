@@ -1,5 +1,5 @@
 <h1>ExpNo 5 : Implement Simple Hill Climbing Algorithm</h1> 
-<h3>Name: Nisha.J N</h3>
+<h3>Name: Nisha.J </h3>
 <h3>Register Number:212223040133
 <H3>Aim:</H3>
 <p>Implement Simple Hill Climbing Algorithm and Generate a String by Mutating a Single Character at each iteration </p>
